@@ -1,2 +1,8 @@
+.classpath
+.project
+.settings/
+.vscode/
 .gradle/
 build/
+bin/
+node_modules/

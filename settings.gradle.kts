@@ -1,1 +1,1 @@
-rootProject.name = "mcp-server-java"
+rootProject.name = "hello-world-mcp"

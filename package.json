@@ -1,0 +1,6 @@
+{
+  "name": "hello-world-mcp",
+  "devDependencies": {
+    "@modelcontextprotocol/inspector": "0.17.2"
+  }
+}
